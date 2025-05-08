@@ -1,0 +1,354 @@
+{
+    "Apple__black_rot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Apple__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Apple__rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Apple__scab": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cassava__bacterial_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cassava__brown_streak_disease": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cassava__green_mottle": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cassava__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cassava__mosaic_disease": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cherry__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cherry__powdery_mildew": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Chili__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Chili__leaf curl": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Chili__leaf spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Chili__whitefly": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Chili__yellowish": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Coffee__cercospora_leaf_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Coffee__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Coffee__red_spider_mite": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Coffee__rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Corn__common_rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Corn__gray_leaf_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Corn__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Corn__northern_leaf_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cucumber__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Cucumber__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Gauva__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Gauva__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Grape__black_measles": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Grape__black_rot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Grape__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Grape__leaf_blight_(isariopsis_leaf_spot)": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Jamun__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Jamun__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Lemon__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Lemon__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Mango__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Mango__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Peach__bacterial_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Peach__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Pepper_bell__bacterial_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Pepper_bell__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Pomegranate__diseased": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Pomegranate__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Potato__early_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Potato__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Potato__late_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Rice__brown_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Rice__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Rice__hispa": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Rice__leaf_blast": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Rice__neck_blast": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__bacterial_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__caterpillar": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__diabrotica_speciosa": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__downy_mildew": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__mosaic_virus": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__powdery_mildew": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Soybean__southern_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Strawberry___leaf_scorch": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Strawberry__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Sugarcane__bacterial_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Sugarcane__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Sugarcane__red_rot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Sugarcane__red_stripe": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Sugarcane__rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__algal_leaf": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__anthracnose": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__bird_eye_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__brown_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tea__red_leaf_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__bacterial_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__early_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__late_blight": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__leaf_mold": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__mosaic_virus": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__septoria_leaf_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__spider_mites_(two_spotted_spider_mite)": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__target_spot": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Tomato__yellow_leaf_curl_virus": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Wheat__brown_rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Wheat__healthy": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Wheat__septoria": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    },
+    "Wheat__yellow_rust": {
+        "english": "Remedy not available",
+        "hindi": "इलाज उपलब्ध नहीं है।"
+    }
+}
